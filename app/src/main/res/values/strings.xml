@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="header_info">Select an image to create a full square image</string>
+</resources>
